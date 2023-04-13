@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://srinanoo.github.io/repo/static/css/main.d2d644f2.css",
+    "main.js": "https://srinanoo.github.io/repo/static/js/main.2d905d30.js",
+    "static/js/787.bb42bea4.chunk.js": "https://srinanoo.github.io/repo/static/js/787.bb42bea4.chunk.js",
+    "index.html": "https://srinanoo.github.io/repo/index.html",
+    "main.d2d644f2.css.map": "https://srinanoo.github.io/repo/static/css/main.d2d644f2.css.map",
+    "main.2d905d30.js.map": "https://srinanoo.github.io/repo/static/js/main.2d905d30.js.map",
+    "787.bb42bea4.chunk.js.map": "https://srinanoo.github.io/repo/static/js/787.bb42bea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d644f2.css",
+    "static/js/main.2d905d30.js"
+  ]
+}
